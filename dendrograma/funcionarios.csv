@@ -1,7 +1,7 @@
 id,Cargo,Nombre,depende_de,genero
 1,Intendente,Dr. José Eduardo LAURITTO,,M
 2,Secretaría Privada,Virginia BENITEZ,1,F
-3,Dirección de Comunicación Ciudadana,Matías GIQUEAUX,1,D
+3,Dirección de Comunicación Ciudadana,Matías GIQUEAUX,1,M
 4,Coordinación de Prensa,Walter Darío BARSOTTI,3,M
 5,Jefe de Gabinete,Luis Osvaldo CARROZZO,1,M
 6,Secretario de Gobierno,Ricardo VALES,1,M
@@ -50,22 +50,21 @@ id,Cargo,Nombre,depende_de,genero
 49,Coord. Gral. de Espacios Públicos,Jorge URQUIZA,1,M
 50,Área Espacios Públicos,Flavio SILVA,49,M
 51,Área Espacios Públicos,Germán MATTIAUDA,49,M
-52,Viceintendente,Dr. Martín OLIVA,1,M
-53,Presidente HCD,Sra. Viviana Claudia  SANSONI,52,F
-54,Prosec HCD,Sr. Ricardo Antonio ISELLI,52,M
-55,Sec HCD,Srta. Vanesa ZANANDREA,52,F
-56,Asesor Jurídico,Dr. Sebastián FAGÚNDEZ,52,M
-57,Prensa HCD,Victoria BOZZOLO,52,F
-58,Concejal,Prof. María del Carmen TOURFINÍ,52,F
-59,Concejal,Viviana Claudia SANSONI,52,F
-60,Concejal,Guillermo Antonio GONZALEZ,52,M
-61,Concejal,Hugo Ramón CETTOUR,52,M
-62,Concejal,Sergio Daniel VEREDA,52,M
-63,Concejal,Laura Marianela Concepción MARCLAY,52,F
-64,Concejal,Juan Martín GARAY,52,
-65,Concejal,José Luis GURNE,52,
-66,Concejal,Karina PERCARA,52,
-67,Concejal,Andrea Alejandra HASSEN,52,
-68,Concejal,Carlos Alberto DUTRA,52,
-69,Concejal,Sergio Daniel CUCURULLO,52,
-70,Concejal,Paola Gisela DELESE,52,
+52,Presidente HCD,Dr. Martín OLIVA,1,M
+53,Prosec HCD,Sr. Ricardo Antonio ISELLI,52,M
+54,Sec HCD,Srta. Vanesa ZANANDREA,52,F
+55,Asesor Jurídico,Dr. Sebastián FAGÚNDEZ,52,M
+56,Prensa HCD,Victoria BOZZOLO,52,F
+57,Concejal,Prof. María del Carmen TOURFINÍ,52,F
+58,Concejal,Viviana Claudia SANSONI,52,F
+59,Concejal,Guillermo Antonio GONZALEZ,52,M
+60,Concejal,Hugo Ramón CETTOUR,52,M
+61,Concejal,Sergio Daniel VEREDA,52,M
+62,Concejal,Laura Marianela Concepción MARCLAY,52,F
+63,Concejal,Juan Martín GARAY,52,M
+64,Concejal,José Luis GURNE,52,M
+65,Concejal,Karina PERCARA,52,F
+66,Concejal,Andrea Alejandra HASSEN,52,F
+67,Concejal,Carlos Alberto DUTRA,52,M
+68,Concejal,Sergio Daniel CUCURULLO,52,M
+69,Concejal,Paola Gisela DELESE,52,F
