@@ -1,67 +1,71 @@
-id,Cargo,Nombre,Telefono,Domicilio,depende_de,genero
-1,Ministro de la Producción,"Contigiani, Luis Gustavo",,,0,M
-2,"Secretario de Agricultura, Ganadería y Recursos Naturales","Bargellini, Marcelo",,,1,M
-3,"Secretario de Turismo, Comercio y Servicios","Bulos, Martín José Isaías",,,1,M
-4,Secretario de Desarrollo Territorial y Economía Social,"Casella, Mauro",,,1,M
-5,Secretario de Comercio Interior y Servicios,"Diab, Juan Pablo",,,1,M
-6,Secretario de Lechería,"Morini, Pedro Juan",,,1,M
-7,"Secretario de Industria, Agregado de Valor e Innovación","Pietropaolo, Emiliano",,,1,M
-8,Secretario Privado del Ministro de la Producción,"Bonetto, Martín",,,1,M
-9,Subsecretario de Comercio Exterior,"Braga, Carlos",,,2,M
-10,Subsecretario de Cultivos Industriales,"Braidot, José Luis",,,3,M
-11,Subsecretario de Economía Social y Solidaria,"Cecchi, Alfredo Luis",,,4,M
-12,Subsecretaria de Planificaciones y Relaciones Institucionales,"Filippini, Gabriela",,,5,F
-13,Subsecretario de Agricultura,"Fournell, Diego Darío",,,6,M
-14,Subsecretario de Financiamiento e Inversiones,"Gonzalez Gasparotti, Rodolfo Martín",,,7,M
-15,Desconocido,"Sbodio, Adrián Fabio José",,,7,M
-16,Directora Provincial de Planificación y Relaciones Institucionales,"Alberdi, Cecilia",,,9,M
-17,Director Provincial de Turismo Área Norte,"Arone, Franco",,,9,F
-18,Director Provincial de Coordinación y Gestión,"Buchara, Sergio Pedro",,,10,M
-19,Directora Provincial de Comunicación Social,"Caldo, Aurora Del Pilar",,,10,M
-20,Dirección Provincial de Coordinación Territorial – Des. Territorial,"Crettaz, Elizabet",,,11,M
-21,Director Ente Zona Franca Santafesina,"Cucchiari, Horacio Rubén",,,11,M
-22,Director Provincial de Fomento y Promoción del Comercio y Servicios,"Ferrero, José Ángel",,,12,F
-23,Directora Provincial de Planificación,"Fortonani, Lorena Soledad",,,12,M
-24,Director Provincial de Promoción de Exportaciones,"Galaverna, Daniel Agustín",,,13,M
-25,Dirección Provincial de Lechería,"Gatti, Miguel José",,,13,M
-26,Director Provincial de Defensa del Consumidor,"Gianzone, Leonardo David",,,14,M
-27,Director Provincial de Promoción y Capacitación Industrial,"Kreni, Walter Omar",,,14,F
-28,Director Provincial de Desarrollo Territorial,"Marengo, Alejandro",,,15,M
-29,Directora Provincial de de la Agencia Santafesina de Inversiones y Comercio Internacional,"Marini, Débora",,,15,M
-30,Director Provincial de Centro Operativo Experimental Dr. Tito Livio Coppa,"Perren, José María",,,20,M
-31,Vocal Directorio de la Agencia - Asimilable a Director Pcial.,"Piazzardi, Bernardo Carlos",,,20,M
-32,Directora Provincial de Ordenamiento Territorial y Emergencia Agropecuaria,"Quinteros, Norma Beatríz",,,20,F
-33,Directora Provincial de Coordinación Administrativa,"Rivolta, Daniela Mara",,,21,M
-34,Directora Provincial de Turismo Área Sur,"Rosenthal, Claudia",,,21,M
-35,Director Provincial de Promoción del Asociativismo y el Emprendedurismo,"Serafino, Eugenio Dalcio",,,21,M
-36,Asistente Técnica Nivel II – Desarrollo Territorial y Economía Social,"Bianchi, Melina",,,23,M
-37,Asistente Técnica Nivel II – Agricultura,"Camissi, Norberto",,,23,F
-38,Asistente Técnica Nivel II – Administración y Coordinación Técnica y Legal,"Carena, Natalia Beatriz",,,24,M
-39,Asistente Técnica Nivel II- Agricultura,"Drovetta, Juan Pío Tomás",,,25,M
-40,Asistente Técnica Nivel IV - Administración y Coordinación Técnica y Legal,Druetto Ojeda,,,25,M
-41,Asistente Técnica Nivel I –Desarrollo Territorial,Flores Victor Hugo,,,25,M
-42,Asistente Técnica Nivel III – Privada del Ministro,"Gazzaniga, Franco",,,25,F
-43,Asistente Técnica Nivel II – Comercio Exterior,"Giorgetti, Jorge Luis",,,25,M
-44,Asistente Técnica Nivel III –Agricultura,Lombardi Carla Liz,,,25,M
-45,Asistente Técnico Nivel III – Planificación,"López, Marcela Viviana",,,25,M
-46,Asistente Técnica Nivel IV – Comercio Exterior,"López, Ovidio Mario",,,26,M
-47,Asistente Técnica Nivel II – Desarrollo Territorial y Economía Social,Monteverde Marcos,,,27,F
-48,Asistente Técnica Nivel IV – Desarrollo Territorial y Economía Social,"Mouriño, Rubén",,,28,M
-49,Asistente Técnica Nivel I –Inversiones,Neyret Ana Lucía,,,29,M
-50,Asistente Técnico Nivel III – Desarrollo Territorial,"Pecorelli, María Antonella",,,29,M
-51,Asistente Técnica Nivel II – Turismo,"Romero Barolín, Facundo",,,30,M
-52,Asistente Técnica Nivel IV – Agricultura,"Salim Scarafia, Juan Carlos",,,31,F
-53,Asistente Técnica Nivel II – Turismo,"Suasnabar, María Laura",,,31,M
-54,Asistente Técnico Nivel I – Santa Fe Global (Agencia),"Appiani, Fabricio Lisandro",,,31,M
-55,Asistente Técnico Nivel I – Industrias,"Ayala, Nicolás Federico",,,31,M
-56,Asistente Técnico Nivel I – Planificación y Rel. Inst.,"Baracat, Ayelén Tania",,,32,M
-57,Asistente Técnico Nivel I – Desarrollo Territorial y Economía Social,"Barchetta, Omar",,,32,F
-58,Asistente Técnico Nivel I – Agricultura,"Bugnon, Marcial",,,32,M
-59,Asistente Técnica Nivel I – Santa Fe Global (Agencia),"Collados, María Florencia",,,32,M
-60,Asistente Técnico Nivel I – Santa Fe Global (Agencia),"Fortunato, Juan Manuel",,,33,M
-61,Asistente Técnico I – Administración y Coordinación Técnica y Legal,"Liendo, Mónica Gloria",,,33,M
-62,Asistente Técnico Nivel I – Inversiones,"Martínez, Adriana Mónica",,,33,F
-63,Asistente Técnico Nivel I – Administración y Coordinación Técnica y Legal,"Pallotti, Mariela Inés",,,33,M
-64,Asistente Técnico Nivel I – Planificación,"Primo, Florencia",,,33,M
-65,Asistente Técnico Nivel I – Santa Fe Global (Agencia),"Ross, Mailen Eliana",,,33,M
-66,Asistente Técnico I – Agricultura,"Zampar, Omar Antonio",,,33,M
+id,Cargo,Nombre,depende_de,genero
+1,Intendente,Dr. José Eduardo LAURITTO,,M
+2,Secretaría Privada,Virginia BENITEZ,1,F
+3,Dirección de Comunicación Ciudadana,Matías GIQUEAUX,1,D
+4,Coordinación de Prensa,Walter Darío BARSOTTI,3,M
+5,Jefe de Gabinete,Luis Osvaldo CARROZZO,1,M
+6,Secretario de Gobierno,Ricardo VALES,1,M
+7,Directora de Asuntos Jurídicos,Rocío GARCÍA,6,F
+8,Director de Seguridad Ciudadana,Héctor Alfredo GOBBI,6,M
+9,Director OMIC,Juan Pablo ROMERO SEOANE,6,M
+10,"Secretario de Cultura, Turismo y Deportes",Néstor Marcelo HERLEIN,1,M
+11,,Yari Demián SEYLER,10,M
+12,Coordinador de Relaciones Institucionales,Gustavo González,10,M
+13,Directora de Turismo,María Laura SAAD,10,F
+14,Director de Cultura,Cristian MERLO,10,M
+15,Director de Deportes,Osvaldo LÓPEZ,10,M
+16,Coordinador de Deportes,Sergio Darío RICHARD,10,M
+17,Secretario de Hacienda,Oscar COLOMBO,1,M
+18,Director de Producción,Enrique Carlos MARTINO,17,M
+19,Secretario de Desarrollo Social y Educación,Oscar NOIR,1,M
+20,Directora de Educación,Marisa DÍAZ,19,F
+21,Coordinadora de Consejo Social,Norma Cristina SOSA,19,F
+22,CM Juventud,Cristian Daniel BONATTO,19,M
+23,CM Juventud,Luciano Martín RODRIGUEZ,19,M
+24,CM Juventud,Eduardo Iván OCAMPO,19,M
+25,CM Promoción a la Comunidad,Marisa Liliana ARRIETA,19,F
+26,CM Promoción a la Comunidad,Luis Alberto NUÑEZ,19,M
+27,CM Promoción a la Comunidad,José Sixto PADOVESE,19,M
+28,CM Participación Ciudadana,Carlos César BONNIN,19,M
+29,CM Participación Ciudadana,María Valeria JÁUREGUI,19,F
+30,CM de la Mujer,Andrea Beatriz ALBA,19,F
+31,CM Presupuesto Participativo,Romina PAREJAS,19,F
+32,Secretario de Salud,Sergio BERTELOTTI,1,M
+33,Director de Salud Comunitaria,Gabriel BARRIENTOS,32,M
+34,Director de Salud Ambiental,Justo Alfredo CÁCERES,32,M
+35,Director de Derechos Humanos,Rubén Darío BARON,32,M
+36,Directora de Inclusión para las personas con discapacidad,María Rosa PINGET,32,F
+37,Coordinador de Inclusión para las personas con discapacidad,Angel Norberto SALAMONINI,36,M
+38,Directora de Adultos Mayores,Noelia RUIZ,32,F
+39,Coordinador de Adultos Mayores,Lorenzo SAMPO,38,M
+40,Directora Ejecutiva CIC,Valeria MARCEL,32,F
+41,Director Comunitario CIC,Alejandro OSUNA,32,M
+42,Coordinador CIC,Angel GONZALEZ,40,M
+43,Secretario Privado Secretaría de Salud,Agustín MONROY,32,M
+44,Coord. Gral. de Políticas Públicas y Control de Gasto,Fernando PICART,1,M
+45,Coord. Gral. de Infraestructura,Alfredo Alejandro FERNANDEZ,1,M
+46,Coord. Gral. de Planeamiento,Hernán MOLINA REARTE,1,M
+47,Coord. Gral. de Servicios Sanitarios y Desagües Pluviales,Fernando LESCANO,1,M
+48,Coord. Gral. de Servicios Públicos,Ezequiel VALDUNCIEL,1,M
+49,Coord. Gral. de Espacios Públicos,Jorge URQUIZA,1,M
+50,Área Espacios Públicos,Flavio SILVA,49,M
+51,Área Espacios Públicos,Germán MATTIAUDA,49,M
+52,Viceintendente,Dr. Martín OLIVA,1,M
+53,Presidente HCD,Sra. Viviana Claudia  SANSONI,52,F
+54,Prosec HCD,Sr. Ricardo Antonio ISELLI,52,M
+55,Sec HCD,Srta. Vanesa ZANANDREA,52,F
+56,Asesor Jurídico,Dr. Sebastián FAGÚNDEZ,52,M
+57,Prensa HCD,Victoria BOZZOLO,52,F
+58,Concejal,Prof. María del Carmen TOURFINÍ,52,F
+59,Concejal,Viviana Claudia SANSONI,52,F
+60,Concejal,Guillermo Antonio GONZALEZ,52,M
+61,Concejal,Hugo Ramón CETTOUR,52,M
+62,Concejal,Sergio Daniel VEREDA,52,M
+63,Concejal,Laura Marianela Concepción MARCLAY,52,F
+64,Concejal,Juan Martín GARAY,52,
+65,Concejal,José Luis GURNE,52,
+66,Concejal,Karina PERCARA,52,
+67,Concejal,Andrea Alejandra HASSEN,52,
+68,Concejal,Carlos Alberto DUTRA,52,
+69,Concejal,Sergio Daniel CUCURULLO,52,
+70,Concejal,Paola Gisela DELESE,52,

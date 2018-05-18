@@ -37,7 +37,7 @@ with open(csv_origen) as csvfile:
 		func["funcionario"]["genero"] = row["genero"]
 		func["funcionario"]["edad"] = 0
 		func["funcionario"]["url"] = ""
-		func["funcionario"]["foto"] = {"original": "images/default_profile.jpg", "thumbnail_32x32": "images/default_profile.jpg", "thumbnail":"images/default_profile.jpg"}
+		func["funcionario"]["foto"] = {"original": "images/logo.png", "thumbnail_32x32": "images/logo.png", "thumbnail":"images/logo.png"}
 		func["funcionario"]["uniqueid"] = ""
 		func["cargo"] = {}
 		func["cargo"]["id"] = row["id"]
